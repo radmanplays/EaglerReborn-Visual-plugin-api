@@ -1,4 +1,4 @@
-# EaglerReborn-Visual-plugin-api
+# EaglerReborn-Visual-plugin-api (exporting is WIP)
 a visual plugin maker for eagler reborn
 live demo : https://radmanplays.github.io/EaglerReborn-Visual-plugin-api/web
 
