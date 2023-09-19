@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1694886115,
+	"version": 1695130620,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,12 +11,19 @@
 		"images/sprite3-sheet0.png",
 		"images/tiledbackground.png",
 		"images/sprite5-sheet0.png",
+		"images/loadinglogo-sheet0.png",
+		"images/sprite7-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
+		"minecraft.css",
+		"minecraftregular-bmg3-webfont.eot",
+		"minecraftregular-bmg3-webfont.svg",
+		"minecraftregular-bmg3-webfont.woff",
+		"minecraftregular-bmg3.otf",
 		"adapter.js"
 	]
 }

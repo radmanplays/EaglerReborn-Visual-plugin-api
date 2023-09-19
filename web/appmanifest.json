@@ -1,6 +1,6 @@
 ﻿{
-	"name": "New project",
-	"short_name": "New project",
+	"name": "Visual Plugin API",
+	"short_name": "Visual Plugin API",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
